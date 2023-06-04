@@ -5,16 +5,16 @@
     python -m venv venv-name
 ```
 
-### Active your virtual environment
+### Active your virtual environment 👾
 ```bash
     env\Scripts\activate
 ```
-### Install dependencies
+### Install dependencies 👨‍💻
 ```bash
    pip install tk qrcode 
 ```
 
-### Run app
+### Run app 🚀
 ```bash
     python app.py
 ```
